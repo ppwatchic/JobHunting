@@ -115,6 +115,9 @@ Or we can use to index to tranverse from different end and find the suitable ans
 A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.
 [Here](http://web.cecs.pdx.edu/~sheard/course/Cs163/Doc/FullvsComplete.html)
 
+**Q: Parenthesis matchi problem.**
+
+**A:** Solution [Here](https://github.com/ppwatchic/JobHunting/blob/master/ParenthesisMatch.java)
 
 
 
