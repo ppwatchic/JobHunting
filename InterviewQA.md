@@ -32,6 +32,10 @@ by oneself have less outcome comparing with 80% of personal hardwork and 20% fro
 **A:**think before you act, which says whatever i do, I start it first in my mind and have a clear idea what is going on and then 
 implement it. 
 
+**Q:Check for balance of parenthsis of given string.**
+
+**A:** [Here]()
+
 **Q: What experience do you have separate you from others?** 
 
 **A:** My engineering sense of problem-solving and ability to achieve what i commit to.   
