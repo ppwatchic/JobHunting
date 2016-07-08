@@ -102,7 +102,8 @@ Or we can use to index to tranverse from different end and find the suitable ans
 **A:** 
 
 **Q: Merge two sorted array with O(1) space.**
-**A:**
+
+**A:** Practice [here](https://github.com/ppwatchic/JobHunting/blob/master/MergeSort.java)
 
 **Q: What is a full binary tree; a complete binary tree**
 
