@@ -66,7 +66,7 @@ implement it.
 
 **Q: What questions do you have for me?**
 
-**A:** 
+**A:**
 
 1. What is the size of the team? 
 
@@ -74,18 +74,42 @@ implement it.
 
 3. Why this position is open?
 
-4. What do you enjoy most about working in this company? 
+4. What can be the next position if the personn doing really good job in this position?
+
+5. What do you enjoy most about working in this company? 
 
 ## Part 3, Technical Questions
 
 **Q: What is run-time complexity?**
 
-**A:**
+**A:**The Amout of time necessary to execute an algorithm; it relates the input length to the number of execution step. 
 
 **Q: find a element in a sorted array**
 
-**A:**
+**A:**Binary search;time complexity O(logn).
 
 **Q:given a array of nums, find out two nums that adds up to a specific sum?**
 
+**A:**First we can use a Hashtable which causes a O(n) space complexity; 
+Or we can use to index to tranverse from different end and find the suitable answer, this way we have sort the array first. 
+
+**Q: Given a array of N integers range from 0--N-1, find the maximum repeating num, space complexity O(1).**
+
+**A:**for 1 to N-1, A[A[i]%N] += N; return maximum number.  
+
+**Q: Two sorted arrays are given; find median when both arrays are merged and sorted;**
+
+**A:** 
+
+**Q: Merge two sorted array with O(1) space.**
 **A:**
+
+**Q: What is a full binary tree; a complete binary tree**
+
+**A:** A full binary tree is a tree where every node except the leaves have two children. 
+A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.
+[Here](http://web.cecs.pdx.edu/~sheard/course/Cs163/Doc/FullvsComplete.html)
+
+
+
+
