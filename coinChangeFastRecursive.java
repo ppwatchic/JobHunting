@@ -1,3 +1,7 @@
+/**
+ * beats 97% of java solution
+ * /
+
 public class Solution {
     int total = Integer.MAX_VALUE;
     
