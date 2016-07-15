@@ -1,21 +1,21 @@
 **Q: Who:**
 
-**A:recruiter**
+**A:**recruiter, phone interview
 
 
 **Q: When**
 
-**Q: July 6th**
+**Q:** July 6th
 
 
 **Q1: Tell me your knowledge about web application.**
 
-**A:** 
+**A:**None.
 
 
 **Q2: What do you know about open source projects?**
 
-**A:**
+**A:**Wrong answer. Actually it is about Spring/Hibernate, etc. 
 
 **Q3: How would you rate your knowledge about Java? comparing with your C?**
 
