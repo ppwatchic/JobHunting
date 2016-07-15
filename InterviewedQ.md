@@ -1,4 +1,4 @@
-##PI2 From a hiring manager
+##PI2 From a project manager
 
 **The Hiring Manager introduces his team and project for 5mins.**
 
