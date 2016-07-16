@@ -15,6 +15,14 @@ Second, Let T be a rooted tree. The lowest common ancestor between two nodes n1 
 
 DFS starts at the root (selecting some arbitrary node as the root in the case of a graph) and explores as far as possible along each branch before backtracking. To utilize the backtracking, we use Stack to help backtracking. 
 
+**Q:What is a Complete Binary Tree? A full binary tree? A perfect binary tree**
+
+**A:**A full binary tree is a tree in which all nodes have 0 or 2 children. 
+
+A perfect binary tree is a binary tree in which all internal nodes have 2 children and all leaves have the same level or the same depth. 
+
+In a complete binary tree, all level except possible the last level is completely filled, and all nodes in the last level are as far left as possible. Pros: a complete binary tree can be efficiently represent by array. 
+
 
 
 
