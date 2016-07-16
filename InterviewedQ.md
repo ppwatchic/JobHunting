@@ -18,6 +18,10 @@
 
 **A:** Impressed by its ability to transfer from a online-book selling website to its current leading position in various area, like Amazon Web Service, Amazon Kindle, Amazon video content provider. 
 
+**Q:What do you think of code refactoring?**
+
+**A:**First make it work; second making more features into the code; third make the code more readable. 
+
 **Q:Let's talk about coding.**
 
 **Coding last about 30mins**
