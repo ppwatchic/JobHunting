@@ -13,5 +13,8 @@ Heap Sort Algorithm in ascending/increasing order:
 
 3. Repeat above steps until the size of heap is no greater than 1. 
 
+Note: heap sort is in-place algorithm. 
+Time complexity of heapify is O(Logn). Time complexity of createAndBuildHeap() is O(n) and overall time complexity of Heap Sort is O(nlogn).
+
 
 
