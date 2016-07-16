@@ -3,14 +3,11 @@
 
 **A:** My engineering mindset is: every problem has a solution, which is what I apply for my 6-year working experience on embedded system 
 design. And I enjoy my most recent product design experience, which I have opportunity not only to upgrade my skill sets but also have
-a close connection with people from different department. Together the whole team delievered the product within 9 months, while its 
-predecessor took almost 2 years. 
+a frequent communication with people from different department. Together the whole team delievered the product within 9 months, while its predecessor took almost 2 years. 
 
-My strength is my ability to work under high pressure and finish tasks within deadline, which benefits from my accute engineering sense.
-When I commit to doing things, I make sure it not only complished, but also have better outcome. 
+My strength is my ability to work under high pressure and finish tasks within deadline, which benefits from my accute engineering sense.When I commit to doing things, I make sure it not only complished, but also have better outcome. 
 
-What I am looking for now is a company where I can be a part of the team and grow from a software engineer to a system architec. To meet this end,
-I would like to build a long term career that lets me focus on my professional growth. 
+What I am looking for now is a company where I can be a part of the professional team and grow from a software engineer to a system architec. To meet this end,I would like to build a long term career that lets me focus on my professional growth. 
 
 **Q: What is your strength? Example.** 
 
