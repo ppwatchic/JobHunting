@@ -23,6 +23,16 @@ A perfect binary tree is a binary tree in which all internal nodes have 2 childr
 
 In a complete binary tree, all level except possible the last level is completely filled, and all nodes in the last level are as far left as possible. Pros: a complete binary tree can be efficiently represent by array. 
 
+**Q: what is preorder search, post order search, and Inorder search?**
+
+**A:** PreOrder: visit each node before its children; 
+
+PostOrder: visit each node after its children;
+
+InOrder(for binary tree only) visit left subtree, node, right subtree. 
+
+
+
 
 
 
