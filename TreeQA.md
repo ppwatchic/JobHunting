@@ -23,20 +23,18 @@ A perfect binary tree is a binary tree in which all internal nodes have 2 childr
 
 In a complete binary tree, all level except possible the last level is completely filled, and all nodes in the last level are as far left as possible. Pros: a complete binary tree can be efficiently represent by array.
 
-**Q: what is preorder search, post order search, and Inorder search?**
-
+**Q: what is preorder search, post order search, and Inorder search?**  
 **A:** PreOrder: visit each node before its children; 
 
 PostOrder: visit each node after its children;
 
 InOrder(for binary tree only) visit left subtree, node, right subtree.   
 
-**Q: What is a Trie? How to construct a Trie?**
-
+**Q: What is a Trie? How to construct a Trie?**  
 **A:**A [Trie](https://en.wikipedia.org/wiki/Trie) is also called digital tree and sometimes radix tree or prefix tree, is a kind of search tree -- an ordered tree data structure that is used to store a  dynamic set or associative array where keys are ususlly strings.
 
 **Q: Longest repeated substring problem or a suffix tree of letters.**  
-**A:**The longest repeated substring problem is the problem of finding the longest substring of a string that occurs at least twice. To solve this problem, we can build a suffix tree for the string, and finding the deepest internal node in the tree. Depth is measured by the number of characters traversed from the root. 
+**A:** The longest repeated substring problem is the problem of finding the longest substring of a string that occurs at least twice. To solve this problem, we can build a suffix tree for the string, and finding the deepest internal node in the tree. Depth is measured by the number of characters traversed from the root. 
 
 
 
