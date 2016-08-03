@@ -21,7 +21,7 @@ DFS starts at the root (selecting some arbitrary node as the root in the case of
 
 A perfect binary tree is a binary tree in which all internal nodes have 2 children and all leaves have the same level or the same depth. 
 
-In a complete binary tree, all level except possible the last level is completely filled, and all nodes in the last level are as far left as possible. Pros: a complete binary tree can be efficiently represent by array. 
+In a complete binary tree, all level except possible the last level is completely filled, and all nodes in the last level are as far left as possible. Pros: a complete binary tree can be efficiently represent by array.
 
 **Q: what is preorder search, post order search, and Inorder search?**
 
@@ -35,8 +35,7 @@ InOrder(for binary tree only) visit left subtree, node, right subtree.
 
 **A:**A [Trie](https://en.wikipedia.org/wiki/Trie) is also called digital tree and sometimes radix tree or prefix tree, is a kind of search tree -- an ordered tree data structure that is used to store a  dynamic set or associative array where keys are ususlly strings.
 
-**Q: Longest repeated substring problem or a suffix tree of letters. **
-
+**Q: Longest repeated substring problem or a suffix tree of letters.**  
 **A:**The longest repeated substring problem is the problem of finding the longest substring of a string that occurs at least twice. To solve this problem, we can build a suffix tree for the string, and finding the deepest internal node in the tree. Depth is measured by the number of characters traversed from the root. 
 
 
