@@ -32,7 +32,7 @@ InOrder(for binary tree only) visit left subtree, node, right subtree.
 **Q: Longest repeated substring problem or a suffix tree of letters.**  
 **A:** The longest repeated substring problem is the problem of finding the longest substring of a string that occurs at least twice. To solve this problem, we can build a suffix tree for the string, and finding the deepest internal node in the tree. Depth is measured by the number of characters traversed from the root. 
 
-
+**[Ukkonen](http://www.geeksforgeeks.org/ukkonens-suffix-tree-construction-part-4/)'s suffix tree construction**
 
 
 
