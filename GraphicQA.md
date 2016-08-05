@@ -9,8 +9,8 @@ A complete undirected graph can have maximum n^(n-2) number of spanning trees, w
 
 **Q:Tree And Forest?**  
 **A**: A tree in a graph is different from the one of a rooted tree.  
-A tree is an undirected graph **T **is the one that: T is connected; T has no cycles.  
-A forest is an undirected graph without cycles. The components of a forest are trees.   
+A tree is an undirected graph **T**is the one that: T is connected; T has no cycles.  
+A forest is an undirected graph without cycles. The components of a forest are trees.     
 **A spanning tree is not unique unless the graph is a tree.**
 
 
