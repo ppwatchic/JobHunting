@@ -5,7 +5,7 @@ In **topological sorting**, we need to print a vertex before its adjacent vertic
 
 **Q: What is a Spanning Tree?**  
 **A:** A Spanning Tree is a subSet of a graph **G**, which has all the vertices covered with minimum possible number of edges. Hence, a spanning tree does not have cycles and it can not be disconnected.  
-A complete undirected graph can have maximum \n^(n-2)\ number of spanning trees, where n is number of nodes. 
+A complete undirected graph can have maximum n^(n-2) number of spanning trees, where n is number of nodes. 
 
 **Q:Tree And Forest?**  
 **A**: A tree in a graph is different from the one of a rooted tree.  
