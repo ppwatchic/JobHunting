@@ -16,7 +16,7 @@ For example, sorting algorithm of **election sort** and **insertion sort**, with
 **Cache Related Algorithm: LFU/LRU?**
 **A:**   
 1, LFU algorithm will O(1) run-time complexity, with [explanation](http://dhruvbird.com/lfu.pdf) and [source code](https://svn.apache.org/repos/asf/activemq/trunk/activemq-kahadb-store/src/main/java/org/apache/activemq/util/LFUCache.java).   
-2, For LRU, please refer [my own code]() which features generic type and thread-safe. 
+2, For LRU, please refer [my own code](https://github.com/ppwatchic/JobHunting/blob/master/LRUCache.java) which features generic type and thread-safe. 
 
 
 
