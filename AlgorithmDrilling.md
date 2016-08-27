@@ -18,7 +18,9 @@ For example, sorting algorithm of **election sort** and **insertion sort**, with
 1, LFU algorithm will O(1) run-time complexity, with [explanation](http://dhruvbird.com/lfu.pdf) and [source code](https://svn.apache.org/repos/asf/activemq/trunk/activemq-kahadb-store/src/main/java/org/apache/activemq/util/LFUCache.java).   
 2, For LRU, please refer [my own code](https://github.com/ppwatchic/JobHunting/blob/master/LRUCache.java) which features generic type and thread-safe. 
 
-
+**Find the pattern and express it in code**
+**A**: Leetcode [counting bits](https://leetcode.com/problems/counting-bits/)  
+This type of problem requires observation from the input and generate the output. 
 
 
 
