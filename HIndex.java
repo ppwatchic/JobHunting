@@ -7,6 +7,8 @@ public class HIndex {
 	// https://leetcode.com/problems/h-index/ 
 	// beats 43.98%
 	public int hIndex(int[] citations){
+		// corner case 
+		if(citations == null || citations.length == 0) return 0;
 		Arrays.sort(citations);
 		int maxH = citations.length;
 		for(int i = 0; i < citations.length; i++) {
