@@ -7,19 +7,15 @@ public class HIndex {
 	// https://leetcode.com/problems/h-index/ 
 	// beats 43.98%
 	public int hIndex(int[] citations){
-		if(citations == null || citations.length == 0)
-			return 0;
-		
 		Arrays.sort(citations);
-		int len = citations.length;
+		int maxH = citations.length;
 		for(int i = 0; i < citations.length; i++) {
-			if(len <= citations[i])
-				return len;
-			else 
-				len--;
+			if(maxH <= citations[i]) {
+				return maxH;
+			} else maxH--;
 		}
-		return len;
 	}
+	
 	public static void main(String[] args) {
 		HIndex hi = new HIndex();
 		int[] c = {1,1,2,4,5,6};
