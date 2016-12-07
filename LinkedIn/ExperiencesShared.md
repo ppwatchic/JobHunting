@@ -5,7 +5,7 @@
 2.1 communication 介绍做过的project 然后问有什么难点
 2.2 hiring manager 基本就是聊聊过去的experience
 2.3 design web游戏hangman
-2.4 coding  一个pizza 切n刀 问最多能切几块 注意不一定要所有切线都在同一个交点. Waral 鍗氬鏈夋洿澶氭枃绔�,
+2.4 coding  一个pizza 切n刀 问最多能切几块 注意不一定要所有切线都在同一个交点.  
               leetcode98 valid binary search tree
               实现一个maxstack 功能有pop peek peekMax popMax, popMax要求O(1) 应该是挂在这上了 最后没想出来popMax O(1)怎么做
 2.5  coding reverse words in a string 和 nestedlist iterator
@@ -89,6 +89,20 @@ Got it right but they never responded after my interview because they filled up 
 1.  The in-person interview was 3 rounds. First was Q&A and coding, then test strategy, 
 then a final round of coding and testing. 
 2. Examine the inbox feature of LinkedIn, read over the given spec, and design a test suite for it. 
+
+## Glassdoor Software Test Engineer 
+1. Phone Interview Questions  
+Write a program to replace 0s with 5 in a given number.
+1.1 Test cases: 
+Use 120096045 
+Negative int (-1)
+0->5  
+"abcd" 
+integer max
+max+1 exception 
+double
+float 
+null  
 
 ## [Career Cups](https://www.careercup.com/page?pid=linkedin-interview-questions)
 
