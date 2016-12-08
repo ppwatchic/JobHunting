@@ -43,5 +43,31 @@ public class IsSubTree {
       return false;
     return isEqual(node1.right, node2.right);    
   }
-
+  
+  /*---Below is the refactor code ---*/
+  public boolean isSubtreeII(TreeNode parent, TreeNode subNode) {
+    // Base cases     
+    if(subNode == null)
+      return true;
+    if(parent == null)
+      return false;
+    
+    if(isEqualII(parent, subNode) == true) return true;
+    
+    return isSubTreeII(parent.left, subNode) ||
+          isSubTreeII(parent.right, subNode);
+  }
+  
+  private boolean isEqualII(TreeNode node1, TreeNode node2) {
+    // Base case 
+    if(node1 == null)
+      return node2 == null;
+    if(node2 == null) 
+      return false;
+    
+    return node1.value==node2.value 
+            && isEqualII(node1.left, node2.left) 
+            && isEqualII(node1.right, node2.right);
+  }
+  
 }
