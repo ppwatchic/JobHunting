@@ -29,7 +29,7 @@
 基本上把自己知道的东西都往上扯 数据库sharding replica server用master slave啥的  
 面试官感觉你起码有这个概念 聊聊时间就过去了  
 
-## [Glassdoor](https://www.glassdoor.com/Interview/LinkedIn-Software-Engineer-In-Test-Interview-Questions-EI_IE34865.0,8_KO9,34.htm)
+## [Glassdoor](https://www.glassdoor.com/Interview/LinkedIn-Software-Engineer-In-Test-Interview-Questions-EI_IE34865.0,8_KO9,34.htm)  Sofeware Engineer in Test June 2016 (San Francisco, CA)
 1. Interview Questions  
 HR Screening -  
 Talk about your resume and previous work experience
@@ -44,13 +44,16 @@ Basic Java questions -
 4.2.1 When a class holds only static methods or fields, there will be no constructor availabe;
 4.2.2 To disallow direct instantiation and instead provide a factory method to return and if necessary create instances;
 5. Can we instantiate an abstract class? 
-[Answer is here](http://stackoverflow.com/questions/13670991/interview-can-we-instantiate-abstract-class). 
-
-Technical Phone screen -
-First 20 - 30 minutes - Discuss projects on your resume, Basic Java questions (Singleton class, mutable and immutable, 
-difference between string literal and new String(), mock objects)
+[Answer is here](http://stackoverflow.com/questions/13670991/interview-can-we-instantiate-abstract-class).  
+6. Technical Phone screen -
+First 20 - 30 minutes - Discuss projects on your resume, Basic Java questions (Singleton class,  
+mutable and immutable,   
+difference between string literal  
+and new String(),   
+mock objects)  
 Remaining 30 - 40 minutes - Coding problem
 Given the following relationships:
+```
 Child Parent IsLeft
 15 20 true
 19 80 true
@@ -59,26 +62,28 @@ Child Parent IsLeft
 80 50 false
 50 null false
 20 50 true
-
+```
 You should return the following tree:
+```
                  50
                / \
             20 80
            / \ / \
         15 17 19 16  
+```
         
 ## Glassdoor Oct 19, 2015 Test Engineer 
 1. Try to debug a situation in which you try to login to platform and it shows a blank page after hitting submit. 
 Reference Answer: Try to analyze using Firebug or any network tool if the request is getting processed or failed ,
 the URL might be unavailable might be the deployment issue.
-2. 
+
 
 ## Glassdoor Senior Software Engineer in Test Feb 11 2016
 1. Interview Questions
 singleton, binary trees  
 
 ## Glassdoor Senior Software Engineer in Test Sep 20 2015
-2.  The coding question (using collabedit) is something like "Search a sorted array for the first element larger than k."
+2.  The coding question (using collabedit) is something like "Search a sorted array for the first element larger than k."  
 I had studied Data Structures and Algorithms extensively and know binary search by heart. So this is pretty easy for me.
 
 ## Glassdoor Senior Software Engineer in Test Oct 1 2015 
@@ -98,19 +103,19 @@ Got it right but they never responded after my interview because they filled up 
 then a final round of coding and testing. 
 2. Examine the inbox feature of LinkedIn, read over the given spec, and design a test suite for it. 
 
-## Glassdoor Software Test Engineer May-12-2015
+## Glassdoor Software Test Engineer April 2015
 1. Phone Interview Questions  
-Write a program to replace 0s with 5 in a given number.
+Write a program to replace 0s with 5 in a given number. 
 1.1 Test cases: 
-Use 120096045 
-Negative int (-1)
-0->5  
-"abcd" 
-integer max
-max+1 exception 
-double
-float 
-null  
+Use 120096045  
+Negative int (-1)  
+0->5    
+"abcd"   
+integer max  
+max+1 exception    
+double  
+float   
+null    
 [Source](https://www.glassdoor.com/Interview/LinkedIn-Software-Test-Engineer-Interview-Questions-EI_IE34865.0,8_KO9,31.htm)
 
 ## Glassdoor on-site Aug 2013
@@ -122,6 +127,36 @@ Interview Questions
 1) Asked to implement Java Iterable interface to read a file.  
 2) Asked the usages of different HTTP status code.  
 3) Asked about Ruby test framework that I was using.    
+
+## Onsite 
+1. 2 rounds of coding session. 
+2. A test question.
+3. A code analysis question. 
+4. A lunch. 
+5. A meeting with Hiring manager. 
+6. One test design and analysis. 
+
+## June 2016 Senior Software Engineer in Test
+1. Find indices start and end for a particular value in a sorted integer array with duplicates. 
+
+## Software Engineer in Test, San Jose CA, Oct 2016, On-site
+1. Being asked about OS concepts, multi threading, thread pool etc. 
+2. String manipulation, What are your challenges, Test Strategy Plan, Code Analysis etc. 
+
+## Test Engineer Interview October 2015 
+1. Try to debug a situation in which you try to login to platform and it shows a blank page after hitting submit.  
+2. Given two (dictionary) words as Strings, determine if they are isomorphic. Two words are called isomorphic  
+if the letters in one word can be remapped to get the second word. Remapping a letter means replacing all  
+occurrences of it with another letter while the ordering of the letters remains unchanged. No two letters  
+may map to the same letter, but a letter may map to itself.
+3. 
+
+## Career Cups
+1. Given a sorted array with duplicates and a number, find the arrange in the form of (startInded, endIndex) of that number. For example 
+findRange({0 2 3 3 3 10 10}, 3) should return (2, 4). 
+
+## Career Cups
+1. If we have all the variables and methods are as static, So would that class be thread safe? 
 
 
 
