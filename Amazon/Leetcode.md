@@ -7,7 +7,8 @@
 6. 78        Subsets         29.3%        Medium
 7. 8        String to Integer (atoi)         13.0%        Easy
 8. 48        Rotate Image         32.9%        Medium
-9. 186        Reverse Words in a String II         30.4%        Medium
+9. 186        Reverse Words in a String II         30.4%        Medium  
+151 Reverse Words in a String  Medium 
 10. 206        Reverse Linked List         35.8%        Easy
 11. 200        Number of Islands         24.8%        Medium
 12. 155        Min Stack         20.7%        Easy
