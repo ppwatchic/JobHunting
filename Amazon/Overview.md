@@ -2,6 +2,7 @@
 1. Leetcode
  * Leetcode题目[按公司分类](http://www.1point3acres.com/bbs/thread-148693-1-1.html)
 2. Geeks4Geeks
+3. Shared by [小土刀](http://wdxtub.com/interview/14520850399861.html). There are algorithms at the end. 
 
 ## Find one partner to prepare together
 1. Report progress daily. 
