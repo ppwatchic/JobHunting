@@ -26,6 +26,8 @@ Use a set thougt model to practice and answer algorithm questions.
 2.2 Combine the above into the whole process.  
 2.3 Note down the skeleton of the progress before dipping into detail.  
 2.4 Go into the actual process and write down the algorithms.  
+At the same time, ask for clarification about the issue.  
+For example, do I consider it as case-sensitive? or multipy spaces allowed in the input? or size of the input? 
 2.5 Double-check the process once done.  
 2.6 Ask if he has any question for the whole process.  
 2.7 Go and write down some test cases.   
