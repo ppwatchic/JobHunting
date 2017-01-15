@@ -19,13 +19,13 @@
 1. [System design problem](http://www.1point3acres.com/bbs/thread-171320-1-1.html) 
 
 ## Algorithms 
-Use a set thougt model to practice and answer algorithm questions. 
-1. Talk about the methodology that occupy this algorithms. like: DFS, BFS, backtracking, dynamicProgram, etc.  
-2. My thought process is:  
+Use a set thougt model to practice and answer algorithm questions.   
+1. Talk about the methodology that occupy this algorithms. like: DFS, BFS, backtracking, dynamicProgram, etc.    
+2. My thought process is:   
 2.1 Mention the main process.  
 2.2 Combine the above into the whole process.  
 2.3 Note down the skeleton of the progress before dipping into detail.  
 2.4 Go into the actual process and write down the algorithms.  
-2.5 Double-check the process once done. 
-2.6 Ask if he has any question for the whole process. 
-2.7 Go and write down some test cases.  
+2.5 Double-check the process once done.  
+2.6 Ask if he has any question for the whole process.  
+2.7 Go and write down some test cases.   
