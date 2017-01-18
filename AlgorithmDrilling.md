@@ -36,7 +36,7 @@ For example, do I consider it as case-sensitive? or multiple spaces allowed in t
 3.5 Double-check the process once done.  
 3.6 Ask if he has any question for the whole process.  
 
-4 Go through one test cases step by step.   
+4. Go through one test cases step by step.   
 4.1 Go and write down some test cases.   
 
 ### Others   
