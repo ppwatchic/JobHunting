@@ -30,4 +30,5 @@ At the same time, ask for clarification about the issue.
 For example, do I consider it as case-sensitive? or multipy spaces allowed in the input? or size of the input? 
 2.5 Double-check the process once done.  
 2.6 Ask if he has any question for the whole process.  
-2.7 Go and write down some test cases.   
+2.7 Go and write down some test cases.  
+2.8 Go through one test case step by step to prove the correctness of the algorithm. 
