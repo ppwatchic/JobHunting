@@ -23,23 +23,23 @@ For example, sorting algorithm of **election sort** and **insertion sort**, with
 This type of problem requires observation from the input and generate the output. 
 
 ## Thought Model 
-1. Ask for clarification about the problem. 
-For example, do I consider it as case-sensitive? or multiple spaces allowed in the input? or size of the input? 
+1. Ask for clarification about the problem.   
+For example, do I consider it as case-sensitive? or multiple spaces allowed in the input? or size of the input?   
 2. Talk about the methodology that occupy this algorithms. like: DFS, BFS, backtracking, dynamicProgram, etc.
 
-3. My thought process is:
-3.1 Mention the main process. (Base cases, main process, return value). 
-3.2 Note down the skeleton of the progress before dipping into detail.
-3.3 Go into the actual process and write down the algorithms.
-At the same time, ask for clarification about the problem.
-For example, do I consider it as case-sensitive? or multiple spaces allowed in the input? or size of the input? 
-3.5 Double-check the process once done.
-3.6 Ask if he has any question for the whole process.
+3. My thought process is:  
+3.1 Mention the main process. (Base cases, main process, return value).   
+3.2 Note down the skeleton of the progress before dipping into detail.  
+3.3 Go into the actual process and write down the algorithms.  
+At the same time, ask for clarification about the problem.  
+For example, do I consider it as case-sensitive? or multiple spaces allowed in the input? or size of the input?   
+3.5 Double-check the process once done.  
+3.6 Ask if he has any question for the whole process.  
 
-4 Go through one test cases step by step. 
-4.1 Go and write down some test cases.
+4 Go through one test cases step by step.   
+4.1 Go and write down some test cases.   
 
-### Others
-1. Keep talking. 
+### Others   
+1. Keep talking.    
 
 
