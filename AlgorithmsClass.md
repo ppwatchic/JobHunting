@@ -2,7 +2,6 @@
 ### Heapify
 1. Runtime Complexity
 
-
 ### Merge Sort
 1. Runtime Complexity
 
@@ -21,6 +20,10 @@
 ## Dynamic Programming
 
 ## Depth-First Search
+
+## Topological Sort 
+1. [Geeks4Geeks](http://www.geeksforgeeks.org/topological-sorting/). The algorithm is similar to DFS.  
+2. Typical problems that use topological sort: library dependency. 
 
 ## Breath-First Search
 ### Two-way BFS 
