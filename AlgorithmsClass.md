@@ -5,6 +5,9 @@
 ### Merge Sort
 1. Runtime Complexity
 
+### Insertion Sort
+
+
 
 ## OOD
 1. Least-Recent Used Cache
@@ -42,6 +45,12 @@ Output:  5->4->3->2->1->8->7->6->NULL.
 ```
 
 ## Trie
+
+## Union Find
+
+## Graph
+
+
 
 
 
