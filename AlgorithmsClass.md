@@ -19,6 +19,7 @@
 ## Binary Search 
 
 ## Back-tracking
+1. Examples using back-tracking to sovle. [Geeks4Geeks](http://www.geeksforgeeks.org/category/algorithm/backtracking/)
 
 ## Dynamic Programming
 
