@@ -3,12 +3,12 @@ Clone an undirected graph. Each node in the graph contains a `label` and a list 
 
 ### Definition for `UndirectedGraphNode`
 ```
- * Definition for undirected graph.
- * class UndirectedGraphNode {
- *     int label;
- *     List<UndirectedGraphNode> neighbors;
- *     UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<UndirectedGraphNode>(); }
- * };
+// Definition for undirected graph.
+class UndirectedGraphNode {
+     int label;
+     List<UndirectedGraphNode> neighbors;
+     UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<UndirectedGraphNode>(); }
+};
 ```
 
 ### Solution
