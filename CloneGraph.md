@@ -2,14 +2,14 @@
 Clone an undirected graph. Each node in the graph contains a `label` and a list of its `neighbors`.
 
 ### Definition for `UndirectedGraphNode`
-/**
+```
  * Definition for undirected graph.
  * class UndirectedGraphNode {
  *     int label;
  *     List<UndirectedGraphNode> neighbors;
  *     UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<UndirectedGraphNode>(); }
  * };
- */
+```
 
 ### Solution
 1. Use Depth-First Search to tackle this problem. 
