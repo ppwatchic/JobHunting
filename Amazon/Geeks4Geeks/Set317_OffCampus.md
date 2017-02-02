@@ -21,12 +21,16 @@ http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 
 ## Round 3:
 
-Count ways to reach nth stair.
-http://www.geeksforgeeks.org/count-ways-reach-nth-stair/
-It is similar to fibonacci series. Interviewer asked various ways to implement the same -Recursion, 1-D array, with 3 variables and complexity of each.
-Design recommendation engine.
-It’s like auto suggestion. I gave the trie approach. The interviewer seemed fine with this approach and asked me to write full code with time and space complexities. Implementation of Tries:
-http://www.geeksforgeeks.org/trie-insert-and-search/
+1. Count ways to reach nth stair.  
+http://www.geeksforgeeks.org/count-ways-reach-nth-stair/  
+It is similar to fibonacci series. Interviewer asked various ways to implement the same -Recursion, 1-D array, with 3 variables and complexity of each.  
+2. Design recommendation engine.  
+It’s like auto suggestion. I gave the trie approach. The interviewer seemed fine with this approach and asked me to write full code with time and space complexities.   
+Implementation of Tries:   
+http://www.geeksforgeeks.org/trie-insert-and-search/  
+2.1 Discussion about [Autosuggestion and trie](http://stackoverflow.com/questions/1783652/what-is-the-best-autocomplete-suggest-algorithm-datastructure-c-c).   
+2.2 [Implementation of Auto-completion on Java]().  
+2.3 [Blogs on Autocompletion](http://rmandvikar.blogspot.com/2008/10/trie-examples.html)  
 
 
 ## Round 4(Managerial Round – Over video call)
