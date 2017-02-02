@@ -2,20 +2,20 @@
 
 ## Round 1:
 1. Tell me about yourself.  
-2. Trapping Rain Water :Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
-http://www.geeksforgeeks.org/trapping-rain-water/
-Print left view of a binary tree.
-http://www.geeksforgeeks.org/print-left-view-binary-tree/
-Discussion : I gave two approaches one with DFS and other with level order traversal.
-He asked to compare two approaches and implement the efficient one. DFS is the efficient one because in level order, you need to store all the nodes at each level, some of them may not be a part of the left view of BT.
+2. Trapping Rain Water :Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.  
+http://www.geeksforgeeks.org/trapping-rain-water/   
+Print left view of a binary tree.    
+http://www.geeksforgeeks.org/print-left-view-binary-tree/   
+Discussion : I gave two approaches one with DFS and other with level order traversal.  
+He asked to compare two approaches and implement the efficient one. DFS is the efficient one because in level order, you need to store all the nodes at each level, some of them may not be a part of the left view of BT.  
 
 ## Round 2:
 
 1. Tell me about yourself.  
-2. Find sum of n elements after kth smallest element in BST. Tree is very large, you are  
-not allowed to traverse the tree.
-**Discussion** : Since the array traversal is not allowed so we need to do some preprocessing over the tree, something like storing sum of all its predecessor nodes.For finding kth smallest element, use order statistics approach:
-http://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/
+2. Find sum of n elements after kth smallest element in BST. Tree is very large, you are not allowed to traverse the tree.  
+**Discussion** : Since the tree traversal is not allowed so we need to do some preprocessing over the tree, something like storing sum of all its predecessor nodes.   
+For finding kth smallest element, use order statistics approach:  
+http://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/  
 3. Given a sorted array which has been rotated n number of times. Find the value of n. It is similar to below post where you need to find only the pivot element. If you have the Index of pivot element, you can get the number of times the array is rotated.
 http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 
