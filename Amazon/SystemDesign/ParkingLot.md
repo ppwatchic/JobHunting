@@ -47,4 +47,9 @@ The lot has 3 different types of parking: **regular**, **handicapped** and **com
 2. Do we need data analysis for parking lot usages? 
 3. What if we think about scaling problem? 
 
-
+## Procedures to answer the questions 
+1. Walk through an example: suppose we want to park a car in the parking lot, what components will we have in touch with?  
+2. Then scope the use case and constraints for the system.  
+3. Then outline the classes in mind.  
+Make points clear: class/subclass, class/interface, **is-a**, **has-a**. 
+4. Add more detail in it: members, fields.   
