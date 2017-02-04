@@ -3,7 +3,18 @@
 1. Runtime Complexity
 
 ### Merge Sort
-1. Runtime Complexity
+1. Runtime Complexity: worse case: O(nlogn). 
+2. Application: Merge sort is more efficient than quicksort for some types of lists if the data to be sorted can only be efficiently accessed sequentially.  
+3. It is a divide-and-conquer algorithm. The `divide` procedure does nothing, and sorting actually happens at combine step. 
+4. It is not a in-place sorting algorithm. 
+
+### Quick Sort
+1. Worse case: O(n^2); Best case: O(nlogn). 
+2. It is a divide-and-conquer algorithm.   
+First a pivot is picked, and then all elements less than pivot is placed in its left; and then recursively calling the quickSort() on two partitioned array.  
+3. It is a in-place sorting. 
+
+
 
 ### Insertion Sort
 
