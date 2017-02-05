@@ -1,5 +1,6 @@
 ### First round
-1. Find the kth smallest element in row wise and column wise sorted matrix. (No Heap solution)  
+1. Find the kth smallest element in row wise and column wise sorted matrix. (No Heap solution)   
+1.1 Use PriorityQueue to do a BFS in the matrix.  
 2. There is a given data with time and number of orders at that time and it will random.  
 Then there will be a query of how many orders placed between a given interval of time.  
 
